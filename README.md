@@ -17,6 +17,7 @@ mantenibles, escalables y confiables.
 Espero adquirir conocimientos para diseñar arquitecturas de software,
 comprender la organización de sistemas y aplicar buenas prácticas en el
 desarrollo de proyectos reales.
+como tambien implmentarlo en el mundo laboral real.
 
 ## Docente
 
